@@ -2,7 +2,7 @@
 # Dialogs between Harlie the chat-bot and humans
 ## Paper 
 
-[Harlie](http://ebooks.iospress.nl/volumearticle/44289)
+[Hello Harlie](http://ebooks.iospress.nl/volumearticle/44289)
 
 ## If you use this data-set in a publication please cite: 
 
